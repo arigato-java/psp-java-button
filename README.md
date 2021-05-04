@@ -6,6 +6,7 @@
 
 注: CFW必須
 
+- [動作の様子](https://youtu.be/YIR5IFOIoFw)
 - [秘密結社 ジャバ組](https://github.com/arigato-java)の素材を利用しています。
 - 開発環境については[こちら](https://511v41.github.io/2021/04/30/psp)を参考にしてください。
 
